@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f0caf08-00b4-4f5a-89f5-8d4ff2ec4a30" name="Default" comment="" />
+    <ignored path="oauth.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="oauth" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="oauth2.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.7177033" vertical-offset="3699" max-vertical-offset="4515">
+              <caret line="95" column="28" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/.env.example" />
+        <option value="$PROJECT_DIR$/bootstrap/start.php" />
+        <option value="$PROJECT_DIR$/app/config/app.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/config/local/database.php" />
+        <option value="$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/src/Authorizer.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f0caf08-00b4-4f5a-89f5-8d4ff2ec4a30" name="Default" comment="" />
+      <created>1422926324498</created>
+      <option name="number" value="Default" />
+      <updated>1422926324498</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/controllers/OAuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1071">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1422927116352" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="670">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="670">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="924">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artisan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.525" vertical-offset="0" max-vertical-offset="1554">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2625" vertical-offset="3224" max-vertical-offset="4242">
+          <caret line="192" column="28" selection-start-line="192" selection-start-column="28" selection-end-line="192" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/compile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="670">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3609375" vertical-offset="2079" max-vertical-offset="2730">
+          <caret line="110" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/local.sqlite">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="670">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/src/OAuth2ServerServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4401913" vertical-offset="2997" max-vertical-offset="3654">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+          <folding>
+            <marker date="1422926763764" expanded="false" signature="-1:-1" placeholder=" Service Provider for the OAuth 2.0 Server ..." />
+            <marker date="1422926763764" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Indicates if loading of the provider is deferred. ..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Bootstrap the application events. ..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Register the service provider. ..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Register the Authorization server with the IoC container ..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Register the Filters to the IoC container because some filters need additional parameters ..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Get the services provided by the provider. ..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Registers some utility commands with artisan ..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Boot the filters ..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Register the OAuth error handlers ..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/seeds/AccessTokensTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="819">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1422926763632" expanded="false" signature="-1:-1" placeholder=" Access Tokens Table Seeder ..." />
+            <marker date="1422926763632" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763632" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763632" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763632" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763632" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1422926763648" expanded="false" signature="-1:-1" placeholder=" Database Seeder ..." />
+            <marker date="1422926763648" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763648" expanded="true" signature="-1:-1" placeholder=" Run the database seeds. ..." />
+            <marker date="1422926763648" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763648" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/local/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0828125" vertical-offset="641" max-vertical-offset="2730">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6136364" vertical-offset="0" max-vertical-offset="315">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/OAuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1071">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <marker date="1422927116352" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/src/Authorizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13125" vertical-offset="1302" max-vertical-offset="4872">
+          <caret line="79" column="42" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+          <folding>
+            <marker date="1422930624380" expanded="false" signature="-1:-1" placeholder=" Laravel Service Provider for the OAuth 2.0 Server ..." />
+            <marker date="1422930624380" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" The authorization server (aka the issuer) ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" The resource server (aka the checker) ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" The auth code request parameters ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" The redirect uri generator ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Create a new Authorizer instance ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" @return \League\OAuth2\Server\AuthorizationServer ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" @return \League\OAuth2\Server\ResourceServer ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Issue an access token if the request parameters are valid ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Get the Auth Code request parameters ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Get a single parameter from the auth code request parameters ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Check the validity of the auth code request ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Issue an auth code ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Generate a redirect uri when the auth code request is denied by the user ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" get the RedirectUri generator instance ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Set the RedirectUri generator instance ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Validate a request with an access token in it ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" get the scopes associated with the current request ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Check if the current request has all the scopes passed ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Get the resource owner ID of the current request ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Get the resource owner type of the current request (client or user) ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" get the client id of the current request ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Set the request to use on the issuer and checker ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Set the token type to use ..." />
+            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/league/oauth2-server/src/AuthorizationServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4140625" vertical-offset="4439" max-vertical-offset="5439">
+          <caret line="233" column="66" selection-start-line="233" selection-start-column="56" selection-end-line="233" selection-end-column="66" />
+          <folding>
+            <marker date="1422926756916" expanded="false" signature="-1:-1" placeholder=" OAuth 2.0 Authorization Server ..." />
+            <marker date="1422926756916" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" OAuth 2.0 authorization server class ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" The delimeter between scopes specified in the scope query string parameter ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" The TTL (time to live) of an access token in seconds (default: 3600) ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" The registered grant response types ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" The registered grant types ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Require the &quot;scope&quot; parameter to be in checkAuthoriseParams() ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Default scope(s) to be used if none is provided ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Require the &quot;state&quot; parameter to be in checkAuthoriseParams() ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Create a new OAuth2 authorization server ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Enable support for a grant ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Check if a grant type has been enabled ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Returns response types ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Require the &quot;scope&quot; parameter in checkAuthoriseParams() ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Is the scope parameter required? ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Default scope to be used if none is provided and requireScopeParam() is false ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Default scope to be used if none is provided and requireScopeParam is false ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Require the &quot;state&quot; paremter in checkAuthoriseParams() ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Require the &quot;state&quot; paremter in checkAuthoriseParams() ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Get the scope delimiter ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Set the scope delimiter ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Get the TTL for an access token ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Set the TTL for an access token ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Issue an access token ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Return a grant type class ..." />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5546875" vertical-offset="65" max-vertical-offset="735">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <marker date="1422930453684" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder=" Authenticate ..." />
+            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder=" Incoming access token ..." />
+            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder=" Need token for this ..." />
+            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/seeds/ClientsTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.328125" vertical-offset="441" max-vertical-offset="1239">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+          <folding>
+            <marker date="1422926763644" expanded="false" signature="-1:-1" placeholder=" Clients Table Seeder ..." />
+            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7177033" vertical-offset="3699" max-vertical-offset="4515">
+          <caret line="95" column="28" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
