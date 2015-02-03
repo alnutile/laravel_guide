@@ -37,6 +37,7 @@ Why bother with this when Jeffery Way rocks and has Laracast? Good question. For
   * Following Users
   * Behat
   * Codeship / CI
+  * [Oauth](/docs/oauth.md)
   
          
 
