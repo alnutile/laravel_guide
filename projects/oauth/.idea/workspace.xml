@@ -57,9 +57,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1366" />
-    <option name="height" value="744" />
+    <option name="x" value="-1" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -103,6 +104,7 @@
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../dmp_worker" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -119,15 +121,15 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -146,7 +148,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -156,18 +158,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -191,20 +193,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3699" max-vertical-offset="4515">
+          <caret line="190" column="23" selection-start-line="190" selection-start-column="23" selection-end-line="190" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/OAuthController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1071">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1422927116352" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -275,55 +275,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.4401913" vertical-offset="2997" max-vertical-offset="3654">
           <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
-          <folding>
-            <marker date="1422926763764" expanded="false" signature="-1:-1" placeholder=" Service Provider for the OAuth 2.0 Server ..." />
-            <marker date="1422926763764" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Indicates if loading of the provider is deferred. ..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Bootstrap the application events. ..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Register the service provider. ..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Register the Authorization server with the IoC container ..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Register the Filters to the IoC container because some filters need additional parameters ..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Get the services provided by the provider. ..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Registers some utility commands with artisan ..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Boot the filters ..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder=" Register the OAuth error handlers ..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763764" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -331,14 +282,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="819">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1422926763632" expanded="false" signature="-1:-1" placeholder=" Access Tokens Table Seeder ..." />
-            <marker date="1422926763632" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763632" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763632" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763632" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763632" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -346,13 +289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1422926763648" expanded="false" signature="-1:-1" placeholder=" Database Seeder ..." />
-            <marker date="1422926763648" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763648" expanded="true" signature="-1:-1" placeholder=" Run the database seeds. ..." />
-            <marker date="1422926763648" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763648" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -360,21 +296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0828125" vertical-offset="641" max-vertical-offset="2730">
           <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422929582252" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -382,7 +303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6136364" vertical-offset="0" max-vertical-offset="315">
           <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -390,16 +310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1071">
           <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-          <folding>
-            <marker date="1422927116352" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422927116352" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -407,57 +317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13125" vertical-offset="1302" max-vertical-offset="4872">
           <caret line="79" column="42" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
-          <folding>
-            <marker date="1422930624380" expanded="false" signature="-1:-1" placeholder=" Laravel Service Provider for the OAuth 2.0 Server ..." />
-            <marker date="1422930624380" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" The authorization server (aka the issuer) ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" The resource server (aka the checker) ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" The auth code request parameters ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" The redirect uri generator ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Create a new Authorizer instance ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" @return \League\OAuth2\Server\AuthorizationServer ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" @return \League\OAuth2\Server\ResourceServer ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Issue an access token if the request parameters are valid ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Get the Auth Code request parameters ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Get a single parameter from the auth code request parameters ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Check the validity of the auth code request ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Issue an auth code ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Generate a redirect uri when the auth code request is denied by the user ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" get the RedirectUri generator instance ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Set the RedirectUri generator instance ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Validate a request with an access token in it ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" get the scopes associated with the current request ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Check if the current request has all the scopes passed ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Get the resource owner ID of the current request ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Get the resource owner type of the current request (client or user) ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" get the client id of the current request ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Set the request to use on the issuer and checker ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder=" Set the token type to use ..." />
-            <marker date="1422930624380" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -465,56 +324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4140625" vertical-offset="4439" max-vertical-offset="5439">
           <caret line="233" column="66" selection-start-line="233" selection-start-column="56" selection-end-line="233" selection-end-column="66" />
-          <folding>
-            <marker date="1422926756916" expanded="false" signature="-1:-1" placeholder=" OAuth 2.0 Authorization Server ..." />
-            <marker date="1422926756916" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" OAuth 2.0 authorization server class ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" The delimeter between scopes specified in the scope query string parameter ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" The TTL (time to live) of an access token in seconds (default: 3600) ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" The registered grant response types ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" The registered grant types ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Require the &quot;scope&quot; parameter to be in checkAuthoriseParams() ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Default scope(s) to be used if none is provided ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Require the &quot;state&quot; parameter to be in checkAuthoriseParams() ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Create a new OAuth2 authorization server ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Enable support for a grant ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Check if a grant type has been enabled ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Returns response types ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Require the &quot;scope&quot; parameter in checkAuthoriseParams() ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Is the scope parameter required? ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Default scope to be used if none is provided and requireScopeParam() is false ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Default scope to be used if none is provided and requireScopeParam is false ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Require the &quot;state&quot; paremter in checkAuthoriseParams() ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Require the &quot;state&quot; paremter in checkAuthoriseParams() ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Get the scope delimiter ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Set the scope delimiter ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Get the TTL for an access token ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Set the TTL for an access token ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Issue an access token ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder=" Return a grant type class ..." />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926756916" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -522,19 +331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5546875" vertical-offset="65" max-vertical-offset="735">
           <caret line="29" column="31" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="31" />
-          <folding>
-            <marker date="1422930453684" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder=" Authenticate ..." />
-            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder=" Incoming access token ..." />
-            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder=" Need token for this ..." />
-            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422930453684" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -542,17 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.328125" vertical-offset="441" max-vertical-offset="1239">
           <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-          <folding>
-            <marker date="1422926763644" expanded="false" signature="-1:-1" placeholder=" Clients Table Seeder ..." />
-            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1422926763644" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
