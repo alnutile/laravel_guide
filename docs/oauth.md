@@ -5,7 +5,7 @@ Starting with [this library](https://github.com/lucadegasperi/oauth2-server-lara
 
 ## Starting off with Email Passowrd
 
-[here](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Implementing-an-Authorization-Server-with-the-Password-Grant)
+[directions on password grant_type](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Implementing-an-Authorization-Server-with-the-Password-Grant)
 
 Using [Postman](http://www.getpostman.com/docs)
 
