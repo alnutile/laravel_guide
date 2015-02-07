@@ -39,6 +39,7 @@ Why bother with this when Jeffery Way rocks and has Laracast? Good question. For
   * Codeship / CI
   * [Oauth](/docs/oauth.md)
   * [Iron.io, Workers and Queues](/docs/iron.md)
+  * [Events](/docs/events.md)
   
          
 
