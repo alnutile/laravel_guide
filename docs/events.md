@@ -30,7 +30,7 @@ If you hit that [route](http://localhost:8081/example1) you see the sleep taking
 
 See in the image below an example. I reload the page and the results are staggered by the sleep amount in the route. 
 
-![sleep](img/events_delay.png)
+![sleep](img/events/events_delay.png)
 
 On the left I have 
   
@@ -65,28 +65,52 @@ So if you did not want to hold up the process you would place these into a queue
 
 ## Passing data to events
 
-How can Event 1 alter Event 2 see route 
+How can Event 1 alter Event 2 and Event 3 
 
-The route would be [/example2](http://localhost:8081/example2)
+See route would be [/example2](http://localhost:8081/example2)
+
+Also there is a registered event listener seen in the route file
+that 
 
 ~~~
-Event::listen('example2', function(&$data)
+$subscriber = new \Acme\ExampleEventHandler;
+Event::subscribe($subscriber);
+~~~
+
+Which shows how that made it hard to pass a state
+
+
+~~~
+$subscriber = new \Acme\ExampleEventHandler;
+
+Event::subscribe($subscriber);
+
+Event::listen('example2', function($state)
 {
-	$data['foo'] = 5 + $data['foo'];
-	Log::info(sprintf("Event two listener 1 is Triggered total %s", $data['foo']));
+	$state->total = $state->total + 5;
+	var_dump(sprintf("From The listener one state %s <br>", $state->total));
+
+	Log::info(sprintf("Event two listener 1 is Triggered total %s", $state->total));
 });
 
-Event::listen('example2', function(&$data)
+Event::listen('example2', function($state)
 {
-	$data['foo'] = 5 + $data['foo'];
-	Log::info(sprintf("Event two listener 2 is Triggered total %s", $data['foo']));
+	$state->total = $state->total + 5;
+	var_dump(sprintf("From The listener two state %s <br>", $state->total));
+
+	Log::info(sprintf("Event two listener 2 is Triggered total %s", $state->total));
 });
 
 Route::get('/example2', function()
 {
-	$data['foo'] = 0;
-	Event::fire('example2', array(&$data));
-	
-	return sprintf("Event Example 2 data total %s", $data['foo']);
+	$state = new stdClass();
+	$state->total = 0;
+	Event::fire('example2', array($state));
+
+	return sprintf("Event Example 2 data total state %s", $state->total);
 });
 ~~~
+
+This one you just see in the browser 
+
+![example2](img/events/example2.png)

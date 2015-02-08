@@ -34,22 +34,31 @@ Route::get('/example1', function()
 	return "Event Example 1";
 });
 
-Event::listen('example2', function(&$data)
+$subscriber = new \Acme\ExampleEventHandler;
+
+Event::subscribe($subscriber);
+
+Event::listen('example2', function($state)
 {
-	$data['foo'] = 5 + $data['foo'];
-	Log::info(sprintf("Event two listener 1 is Triggered total %s", $data['foo']));
+	$state->total = $state->total + 5;
+	var_dump(sprintf("From The listener one state %s <br>", $state->total));
+
+	Log::info(sprintf("Event two listener 1 is Triggered total %s", $state->total));
 });
 
-Event::listen('example2', function(&$data)
+Event::listen('example2', function($state)
 {
-	$data['foo'] = 5 + $data['foo'];
-	Log::info(sprintf("Event two listener 2 is Triggered total %s", $data['foo']));
+	$state->total = $state->total + 5;
+	var_dump(sprintf("From The listener two state %s <br>", $state->total));
+
+	Log::info(sprintf("Event two listener 2 is Triggered total %s", $state->total));
 });
 
 Route::get('/example2', function()
 {
-	$data['foo'] = 0;
-	Event::fire('example2', array(&$data));
+	$state = new stdClass();
+	$state->total = 0;
+	Event::fire('example2', array($state));
 
-	return sprintf("Event Example 2 data total %s", $data['foo']);
+	return sprintf("Event Example 2 data total state %s", $state->total);
 });
