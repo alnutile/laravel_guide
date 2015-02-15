@@ -7,6 +7,17 @@ Starting with [this library](https://github.com/lucadegasperi/oauth2-server-lara
 
 [directions on password grant_type](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Implementing-an-Authorization-Server-with-the-Password-Grant)
 
+
+## Setup
+
+~~~
+cp .env.example .env
+touch app/database/local.sqlite
+composer install
+php artisan migrate
+php artisan db:seed --class=ClientsTableSeeder
+~~~
+
 Using [Postman](http://www.getpostman.com/docs)
 
 I can then test the endpoint 
@@ -18,7 +29,65 @@ Route::post('oauth/access_token', function() {
 });
 ~~~
 
-and config
+Postman looks like this to get the token using POST
+
+![token request](img/oauth.png)
+
+Then using that token that came from the seed and a fake username and password (we have not seeded that yet)
+
+
+We get a token access Bearer that token we can use for future requests.
+
+
+Now we use that in a request to the protected resource in URL
+
+
+~~~
+https://oauth.dev:44300/protected-resource?access_token=to7QVRpxs6GaKRqUhgDth8UTfhEifv6KrYWao7HR
+~~~
+
+Or with Token in header
+
+![header](img/with_header_token.png)
+
+
+BUT reading this [http://jeremymarc.github.io/2014/08/14/oauth2-with-angular-the-right-way/](http://jeremymarc.github.io/2014/08/14/oauth2-with-angular-the-right-way/) passing the client secret it not safe
+
+
+Also sending not in query string but header
+
+~~~
+You can either add the access token as a query param or http header. I would recommend using http header because it has 2 main advantages:
+
+there is no risk that your access token will be stored in a log file on the server.
+it's better to have a "clean" url
+~~~
+
+And with a refresh token
+
+![refresh token](img/refresh_token.png)
+
+
+
+## Angular
+
+
+
+BUT reading this [http://jeremymarc.github.io/2014/08/14/oauth2-with-angular-the-right-way/](http://jeremymarc.github.io/2014/08/14/oauth2-with-angular-the-right-way/) passing the client secret it not safe
+
+
+Also sending not in query string but header
+
+~~~
+You can either add the access token as a query param or http header. I would recommend using http header because it has 2 main advantages:
+
+there is no risk that your access token will be stored in a log file on the server.
+it's better to have a "clean" url
+~~~
+
+
+## Config
+
 
 ~~~
 #app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php
@@ -76,42 +145,6 @@ return [
 ];
 ~~~
 
-Then seed
-
-~~~
-php artisan db:seed --class=ClientsTableSeeder
-~~~
-
-Postman looks like this to get the token
-
-~~~
-
-![token request](img/oauth.png)
-
-Then using that token
-
-~~~
-http://oauth.dev:8000/protected-resource?access_token=cPBOCEGaHdIB1Wuvi21hHcveBJmhfj5p5N1SBGvb
-~~~
-
-![using token](img/get_with_token.png)
-
-Or with Token in header
-
-![header](img/with_header_token.png)
-
-
-BUT reading this [http://jeremymarc.github.io/2014/08/14/oauth2-with-angular-the-right-way/](http://jeremymarc.github.io/2014/08/14/oauth2-with-angular-the-right-way/) passing the client secret it not safe
-
-
-Also sending not in query string but header
-
-~~~
-You can either add the access token as a query param or http header. I would recommend using http header because it has 2 main advantages:
-
-there is no risk that your access token will be stored in a log file on the server.
-it's better to have a "clean" url
-~~~
 
 ## Angular
 

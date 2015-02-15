@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Log;
 
 return [
 
@@ -87,7 +88,7 @@ return [
                     'email'    => $username,
                     'password' => $password,
                 ];
-
+                Log::info("Need to setup users");
                 return true;
     
                 if (Auth::once($credentials)) {
@@ -97,6 +98,15 @@ return [
                     }
             }
         ],
+        'client_credentials' => [
+            'class' => '\League\OAuth2\Server\Grant\ClientCredentialsGrant',
+            'access_token_ttl' => 3600
+        ],
+        'refresh_token' => [
+            'class' => '\League\OAuth2\Server\Grant\RefreshTokenGrant',
+            'access_token_ttl' => 3600,
+            'refresh_token_ttl' => 36000
+        ]
     ],
 
     /*

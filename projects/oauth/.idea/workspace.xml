@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="oauth2.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46411484" vertical-offset="3699" max-vertical-offset="4515">
-              <caret line="190" column="23" selection-start-line="190" selection-start-column="23" selection-end-line="190" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.23154122" vertical-offset="0" max-vertical-offset="1395">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="38" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -48,6 +48,7 @@
         <option value="$PROJECT_DIR$/app/config/local/database.php" />
         <option value="$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/src/Authorizer.php" />
         <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php" />
       </list>
     </option>
@@ -57,9 +58,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1366" />
-    <option name="height" value="744" />
+    <option name="x" value="61" />
+    <option name="y" value="25" />
+    <option name="width" value="1407" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -92,6 +94,140 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lucadegasperi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth2-server-laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oauth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -103,7 +239,7 @@
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../events" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oauth_l5" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -120,15 +256,15 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -147,8 +283,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="61" y="25" width="1407" height="1417" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -156,19 +292,19 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38450605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -194,9 +330,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3699" max-vertical-offset="4515">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3610" max-vertical-offset="4085">
           <caret line="190" column="23" selection-start-line="190" selection-start-column="23" selection-end-line="190" selection-end-column="23" />
-          <folding />
+          <folding>
+            <marker date="1424009026000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -204,7 +363,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3699" max-vertical-offset="4515">
           <caret line="190" column="23" selection-start-line="190" selection-start-column="23" selection-end-line="190" selection-end-column="23" />
-          <folding />
+          <folding>
+            <marker date="1424009026000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3699" max-vertical-offset="4515">
+          <caret line="190" column="23" selection-start-line="190" selection-start-column="23" selection-end-line="190" selection-end-column="23" />
+          <folding>
+            <marker date="1424009026000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -212,20 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1071">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="670">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env.example">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="670">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -271,87 +470,135 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/local.sqlite">
+    <entry file="file://$PROJECT_DIR$/.env.example">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="670">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/src/OAuth2ServerServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4401913" vertical-offset="2997" max-vertical-offset="3654">
-          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/seeds/AccessTokensTableSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="819">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/seeds/DatabaseSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/local/database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0828125" vertical-offset="641" max-vertical-offset="2730">
+        <state vertical-scroll-proportion="0.29964158" vertical-offset="114" max-vertical-offset="2470">
           <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6136364" vertical-offset="0" max-vertical-offset="315">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.12481752" vertical-offset="0" max-vertical-offset="1370">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/local.sqlite">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05617147" vertical-offset="0" max-vertical-offset="1353">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2015_02_03_012919_create_oauth_clients_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4674385" vertical-offset="0" max-vertical-offset="1382">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1424005984000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder=" Run the migrations. ..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder=" Reverse the migrations. ..." />
+            <marker date="1424005984000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/OAuthController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1071">
-          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/src/Authorizer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13125" vertical-offset="1302" max-vertical-offset="4872">
-          <caret line="79" column="42" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/league/oauth2-server/src/AuthorizationServer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4140625" vertical-offset="4439" max-vertical-offset="5439">
-          <caret line="233" column="66" selection-start-line="233" selection-start-column="56" selection-end-line="233" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5546875" vertical-offset="65" max-vertical-offset="735">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/lucadegasperi/oauth2-server-laravel/seeds/ClientsTableSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.328125" vertical-offset="441" max-vertical-offset="1239">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.24603175" vertical-offset="465" max-vertical-offset="969">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46411484" vertical-offset="3699" max-vertical-offset="4515">
-          <caret line="190" column="23" selection-start-line="190" selection-start-column="23" selection-end-line="190" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.48263386" vertical-offset="1214" max-vertical-offset="4256">
+          <caret line="100" column="17" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
+          <folding>
+            <marker date="1424009026000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1424009026000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23154122" vertical-offset="0" max-vertical-offset="1395">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="38" selection-end-column="4" />
           <folding />
         </state>
       </provider>
