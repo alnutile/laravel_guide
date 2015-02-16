@@ -22,8 +22,7 @@ class AppTableSeeder extends Seeder {
 		User::create(
 			[
 				"email" => "admin@foo.com",
-				"password" => Hash::make(getenv('ADMIN_PASS')),
-				"dmp_id"  => '',
+				"password" => Hash::make(getenv('ADMIN_PASS'))
 			]
 		);
 	}
